@@ -1,0 +1,16 @@
+#banco
+{
+    background-color: rgb(154, 249, 249);
+}
+#texto
+{
+    background-color: green;
+}
+#texto2
+{
+    background-color: rgb(245, 237, 87);
+}
+#calcular:hover
+{
+    background-color: darksalmon;
+}
